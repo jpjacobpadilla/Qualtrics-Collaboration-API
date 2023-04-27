@@ -1,6 +1,6 @@
-# An easy way for NYU students to collaborate on Qualtrics surveys.
+# NYU student collaboration on Qualtrics surveys made easy
 
-Example Usage:
+**Example Usage:**
 ```python
 from qualtrics_collaboration import CollaborationClient
 
