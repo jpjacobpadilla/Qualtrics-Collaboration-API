@@ -1,4 +1,4 @@
-# NYU student collaboration on Qualtrics surveys made easy
+## NYU student collaboration on Qualtrics surveys made easy
 
 **Example Usage:**
 ```python
