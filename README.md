@@ -44,6 +44,3 @@ Here's a quick guide on how to use this package:
    ```python
    client.enter_collaboration_code(code='COLLABORATION_CODE')
    ```
-
-## Contributing
-Contributions are welcome! Please feel free to submit pull requests, report bugs, or suggest features.
