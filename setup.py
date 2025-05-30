@@ -10,6 +10,5 @@ setup(
         'requests',
         'scipy'
     ],
-    author = 'Jacob Padilla',
-    author_email = 'jp@jacobpadilla.com'
+    author = 'Jacob Padilla'
 )
